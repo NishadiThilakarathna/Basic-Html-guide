@@ -1,0 +1,33 @@
+h1 {
+    color: darkBlue;
+    text-align: center;
+    }
+
+    
+#p01{
+    font-size:30;
+    text-align:center;
+    border:3px dashed black;
+    }
+    
+h2,h3,h4,h5,h6{
+    background-color:yellow;
+    font-size:30;
+    font-family:=calibri;
+    }
+#p02{
+    font-size:35;
+    text-align:center;
+    
+}
+
+#p03{
+    font_size:35;
+    background-color:green;
+    style:bold;
+}
+
+table,tr,th,td{
+    border:3px double;
+    color:blue;
+}

@@ -1,0 +1,16 @@
+body{
+	background-color : skyblue;
+}
+
+h1{
+	color:red;
+	
+}
+
+h1,h2,h3{
+	background-color:yellow;
+}
+
+
+
+p{
